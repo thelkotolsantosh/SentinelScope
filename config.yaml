@@ -1,0 +1,10 @@
+data:
+  input_file: data/sample_logs.csv
+  processed_file: data/processed_logs.csv
+
+model:
+  contamination: 0.05
+  random_state: 42
+
+output:
+  anomaly_file: outputs/anomalies.csv
