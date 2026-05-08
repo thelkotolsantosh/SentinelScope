@@ -20,5 +20,5 @@ SentinelScope is a beginner-friendly cybersecurity + data science project using 
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/sentinelscope.git
+git clone https://github.com/thelkotolsantosh/sentinelscope.git
 cd sentinelscope
