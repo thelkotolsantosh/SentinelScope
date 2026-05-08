@@ -1,10 +1,15 @@
-__pycache__/
-*.pyc
-.env
-venv/
-.idea/
-.vscode/
-.ipynb_checkpoints/
-outputs/
-*.log
-*.pkl
+---
+
+# requirements.txt
+
+```text
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+joblib
+flask
+requests
